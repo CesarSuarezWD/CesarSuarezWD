@@ -6,7 +6,7 @@
 
 Some technologies I use
 - ___________________________________________________________________________________________________________________________________________________________________________________
-![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Screenshot](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!---
 CesarSuarezWD/CesarSuarezWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
