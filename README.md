@@ -1,6 +1,6 @@
 # 👋 Hi everyone, I’m Cesar "Tuto" Suarez
 - 💚 I’m passionate about front-end development and how to implement new technologies to my carrer (React, Vue, Sass, UI - UX),I like too graphic design which allowed me learn also Photoshop 
-- 👨‍💻 I’m currently learning deep JavaScript to understad how it really works!
+- 👨‍💻 I’m currently learning deep JavaScript to understad how it really works! and I'll continue learning more technologien on ![Screenshot](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
 - 🤝 I’d like to collaborate on some projects which let me learn more about the technologies what I´m current studying, and how to implement them.
 - 📫 How to reach me?Just send me a message to cesarsuarezmedina@gmail.com and you can also see my LinkedIn profile on https://www.linkedin.com/in/cesarsuarezmedina/ 😉
 
