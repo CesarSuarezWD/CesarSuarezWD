@@ -9,9 +9,7 @@
 
 ## Here are some of my stats 📈
 
-<p align="center"> 
 ![Tuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarSuarezWD&show_icons=true&theme=dark)
-</p>
 
 
 <!---
