@@ -10,6 +10,8 @@
 ## Here are some of my stats 📈
 
 ![Tuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarSuarezWD&show_icons=true&theme=dark)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
 
 <!---
