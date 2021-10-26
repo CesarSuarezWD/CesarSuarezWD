@@ -7,6 +7,8 @@
 ## Some technologies I use 🚀
 ![Screenshot](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Screenshot](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Screenshot](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Screenshot](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Screenshot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Screenshot](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Screenshot](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
 
+## Here are some of my stats:
+[![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarSuarezWD)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarSuarezWD)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
