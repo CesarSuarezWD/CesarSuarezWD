@@ -9,6 +9,8 @@
 
 ## Here are some of my stats 📈
 [![Tuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarSuarezWD)](https://github.com/anuraghazra/github-readme-stats)
+![Tuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarSuarezWD&show_icons=true&theme=radical)
+
 
 <!---
 CesarSuarezWD/CesarSuarezWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
