@@ -1,7 +1,7 @@
 # 👋 Hi everyone, I’m Cesar "Tuto" Suarez
 <img src="https://i.imgur.com/8NJOoh0.gif" width="100%">
 
-# Who am I?
+# Who am I? 🤔
 - 💚 I’m passionate about front-end development and how to implement new technologies to my carrer (React, Sass, UI - UX),I like too graphic design which allowed me learn also Photoshop.
 - 👨‍💻 I’m currently learning deep JavaScript to understad how it really works! and I'll continue learning more technologies on ![Screenshot](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e) to improve my knowledge.
 - 🤝 I’d like to collaborate on some projects which let me learn more about the technologies what I´m current studying, and how to implement them.
